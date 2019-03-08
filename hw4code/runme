@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+set -e
+
+# don't change these 4 lines
+SCRIPTDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+TRAINING=$1;
+INPUT=$2;
+OUTPUT=$3;
+
+python $SCRIPTDIR/preprocess.py < $TRAINING | $SCRIPTDIR/unknown.py > $SCRIPTDIR/train.trees.pre.unk
+python $SCRIPTDIR/pcfg_sibling.py -i $INPUT -o $OUTPUT
+python $SCRIPTDIR/postprocess.py < $OUTPUT > $SCRIPTDIR/dev.parses.post
+python $SCRIPTDIR/evalb.py $SCRIPTDIR/dev.parses.post $SCRIPTDIR/dev.trees

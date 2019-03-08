@@ -1,0 +1,8 @@
+: People-relative
+man handsome woman beautiful
+king queen election vote
+dance ballet dancers lady
+: Product-relative
+wine alcohol water drink
+garden flowers trees woods
+camera machine photos picture

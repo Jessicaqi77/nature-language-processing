@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8537f6a-73d7-4387-88c7-7ee3af333857" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="326507508">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1676518588">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="6" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="10" value="1" />
+          <entry key="100" value="2" />
+          <entry key="1000" value="1" />
+          <entry key="10000" value="1" />
+          <entry key="4k" value="4" />
+          <entry key="5000" value="2" />
+          <entry key="5k" value="1" />
+          <entry key="consumer_company" value="2" />
+          <entry key="consumer_product" value="2" />
+          <entry key="country" value="1" />
+          <entry key="data" value="2" />
+          <entry key="family_name" value="1" />
+          <entry key="location" value="2" />
+          <entry key="make" value="1" />
+          <entry key="museum" value="1" />
+          <entry key="ner" value="8" />
+          <entry key="parses" value="1" />
+          <entry key="pl" value="1" />
+          <entry key="pred" value="6" />
+          <entry key="pred2" value="1" />
+          <entry key="product" value="2" />
+          <entry key="py" value="42" />
+          <entry key="runme" value="2" />
+          <entry key="stop" value="1" />
+          <entry key="trees" value="1" />
+          <entry key="tv_program" value="3" />
+          <entry key="txt" value="8" />
+          <entry key="university_cat_dog" value="5" />
+          <entry key="unk" value="1" />
+          <entry key="vec" value="1" />
+          <entry key="venues" value="2" />
+          <entry key="vocab" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Bash" value="2" />
+          <entry key="PLAIN_TEXT" value="66" />
+          <entry key="Perl" value="1" />
+          <entry key="Python" value="42" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="data" value="22" />
+          <entry key="py" value="6443" />
+          <entry key="runme" value="76" />
+          <entry key="txt" value="279" />
+          <entry key="university_cat_dog" value="5" />
+          <entry key="vocab" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bash" value="76" />
+          <entry key="PLAIN_TEXT" value="307" />
+          <entry key="Python" value="6443" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="215213345">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/twitter_test.ner">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="770">
+              <caret line="3008" column="5" selection-start-line="3008" selection-start-column="5" selection-end-line="3008" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/feat_gen.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1229">
+              <caret line="197" column="7" selection-start-line="197" selection-start-column="7" selection-end-line="197" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/viterbi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="43" column="34" lean-forward="true" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/viterbi_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/twitter_dev_test.ner.pred">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="915">
+              <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/struct_perceptron.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="91" column="21" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+              <folding>
+                <element signature="e#22#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tagger.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2070">
+              <caret line="142" column="86" selection-start-line="142" selection-start-column="86" selection-end-line="142" selection-end-column="86" />
+              <folding>
+                <element signature="e#15#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/lexicon/venues">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/twitter_train.ner">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="41475">
+              <caret line="2765" column="13" selection-start-line="2765" selection-start-column="4" selection-end-line="2765" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ny</find>
+      <find>wow</find>
+      <find>6</find>
+      <find>iphone</find>
+      <find>37</find>
+      <find>6s</find>
+      <find>4</find>
+      <find>#</find>
+      <find>apple</find>
+      <find>la</find>
+      <find>mary</find>
+      <find>bruno</find>
+      <find>andy</find>
+      <find>feat_gen</find>
+      <find>museum</find>
+      <find>location</find>
+      <find>facility</find>
+      <find>coffee</find>
+      <find>person</find>
+      <find>product</find>
+      <find>Piranha</find>
+      <find>movie</find>
+      <find>7</find>
+      <find>@</find>
+      <find>max_iter</find>
+      <find>vec</find>
+      <find>token2features</find>
+      <find>vector</find>
+      <find>25</find>
+      <find>warning</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/viterbi_parser.py" />
+        <option value="$PROJECT_DIR$/pcfg_lowcase.py" />
+        <option value="$PROJECT_DIR$/pcfg_parent.py" />
+        <option value="$PROJECT_DIR$/tree.py" />
+        <option value="$PROJECT_DIR$/pcfg_sibling.py" />
+        <option value="$PROJECT_DIR$/pcfg.py" />
+        <option value="$PROJECT_DIR$/runme" />
+        <option value="$PROJECT_DIR$/preprocess.py" />
+        <option value="$PROJECT_DIR$/distsim.py" />
+        <option value="$PROJECT_DIR$/vocab" />
+        <option value="$PROJECT_DIR$/q3.py" />
+        <option value="$PROJECT_DIR$/q5.py" />
+        <option value="$PROJECT_DIR$/testq6.py" />
+        <option value="$PROJECT_DIR$/q8.py" />
+        <option value="$PROJECT_DIR$/vec.py" />
+        <option value="$PROJECT_DIR$/q8.txt" />
+        <option value="$PROJECT_DIR$/q7.py" />
+        <option value="$PROJECT_DIR$/nyt_word2vec.university_cat_dog" />
+        <option value="$PROJECT_DIR$/twitter_train.ner.pred" />
+        <option value="$PROJECT_DIR$/data/lexicon/location" />
+        <option value="$PROJECT_DIR$/data/twitter_train.ner" />
+        <option value="$PROJECT_DIR$/viterbi.py" />
+        <option value="$PROJECT_DIR$/README.txt" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/feats.py" />
+        <option value="$PROJECT_DIR$/tagger.py" />
+        <option value="$PROJECT_DIR$/feat_gen.py" />
+        <option value="$PROJECT_DIR$/sample.data" />
+        <option value="$PROJECT_DIR$/label.data" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="213" />
+    <option name="y" value="168" />
+    <option name="width" value="1386" />
+    <option name="height" value="458" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Parsing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Parsing" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <module name="Parsing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8537f6a-73d7-4387-88c7-7ee3af333857" name="Default Changelist" comment="" />
+      <created>1538933339897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538933339897</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="213" y="168" width="1386" height="458" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14505495" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35695186" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.12" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/q8.py" />
+    <entry file="file://$PROJECT_DIR$/vec.py" />
+    <entry file="file://$PROJECT_DIR$/vocab" />
+    <entry file="file://$PROJECT_DIR$/word-test.v3.txt" />
+    <entry file="file://$PROJECT_DIR$/q5.py" />
+    <entry file="file://$PROJECT_DIR$/nytcounts.4k" />
+    <entry file="file://$PROJECT_DIR$/wiki-news-300d-1M.vec" />
+    <entry file="file://$PROJECT_DIR$/q7.py" />
+    <entry file="file://$PROJECT_DIR$/nyt_word2vec.4k" />
+    <entry file="file://$PROJECT_DIR$/nyt_word2vec.university_cat_dog" />
+    <entry file="file://$PROJECT_DIR$/q8.txt" />
+    <entry file="file://$PROJECT_DIR$/data/twitter_dev_test.ner">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16758" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/twitter_dev.ner">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8222">
+          <caret line="1525" column="9" lean-forward="true" selection-start-line="1525" selection-start-column="9" selection-end-line="1525" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lexicon/people.family_name">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="207" column="8" lean-forward="true" selection-start-line="207" selection-start-column="8" selection-end-line="207" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lexicon/lower.10000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lexicon/lower.100">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lexicon/english.stop">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lexicon/lastname.5000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lexicon/firstname.5k">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lexicon/firstname.1000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lexicon/lower.5000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter_train.ner.pred">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="8964" column="2" selection-start-line="8964" selection-start-column="1" selection-end-line="8964" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lexicon/location">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dict.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="65" column="65" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/conlleval.pl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3440" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lexicon/location.country">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lexicon/business.consumer_company">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" selection-start-line="38" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lexicon/product">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1226">
+          <caret line="296" column="13" lean-forward="true" selection-start-line="296" selection-start-column="13" selection-end-line="296" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lexicon/business.consumer_product">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10954" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lexicon/automotive.make">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lexicon/tv.tv_program">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lexicon/cap.100">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-846" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lexicon/architecture.museum">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1643" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lexicon/cap.10">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter_dev_test.ner.pred2" />
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter_test.ner.pred">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample.data" />
+    <entry file="file://$PROJECT_DIR$/label.data" />
+    <entry file="file://$PROJECT_DIR$/twitter_dev.ner.pred">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter_dev_test.ner.pred">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struct_perceptron.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="91" column="21" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="e#22#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tagger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="142" column="86" selection-start-line="142" selection-start-column="86" selection-end-line="142" selection-end-column="86" />
+          <folding>
+            <element signature="e#15#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lexicon/venues">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/twitter_train.ner">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41475">
+          <caret line="2765" column="13" selection-start-line="2765" selection-start-column="4" selection-end-line="2765" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/twitter_test.ner">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="3008" column="5" selection-start-line="3008" selection-start-column="5" selection-end-line="3008" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feat_gen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1229">
+          <caret line="197" column="7" selection-start-line="197" selection-start-column="7" selection-end-line="197" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viterbi_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viterbi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="43" column="34" lean-forward="true" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
